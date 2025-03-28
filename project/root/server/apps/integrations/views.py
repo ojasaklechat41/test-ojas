@@ -1,0 +1,1 @@
+Handling for integration endpoints
