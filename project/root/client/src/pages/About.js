@@ -1,0 +1,1 @@
+Component for About us/page
