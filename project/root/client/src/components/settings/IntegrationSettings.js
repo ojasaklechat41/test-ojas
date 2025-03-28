@@ -1,0 +1,1 @@
+For configuring third-party integrations
